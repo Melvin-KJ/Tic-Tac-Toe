@@ -40,6 +40,10 @@ This repository contains a simple Tic Tac Toe game implemented using HTML, CSS, 
 - CSS
 - JavaScript
 
+## Live Demo
+
+ Check out the live demo [here](https://tic-tac-toe-game-melvin.vercel.app/).
+
 ## How to Contribute
 
 Contributions to this project are welcome! If you have any improvements or new features to add, feel free to submit a pull request.
